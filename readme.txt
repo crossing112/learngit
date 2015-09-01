@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Today is rainy 2
 Wtf.
 I am KwongSingchuang.
+afternoon，I am learning github.
